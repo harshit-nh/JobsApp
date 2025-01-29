@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="light_grey">#F5F5F5</color>
+    <color name="light_orange">#FB7959</color>
+    <color name="light_brown">#828181</color>
+    <color name="light_blue">#6279E3</color>
+    <color name="text_color">#2C2C2C</color>
+    <color name="icon_color">#B8B8B8</color>
+    <color name="current_color">#8075CD</color>
+    <color name="pending_color">#EDC039</color>
+    <color name="total_color">#057BA3</color>
+    <color name="calendar_text">#A1A1A1</color>
+    <color name="job_btn_color">#EDECEC</color>
+    <color name="disabled_color">#868686</color>
+</resources>

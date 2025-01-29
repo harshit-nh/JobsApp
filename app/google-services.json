@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "618647036667",
+    "project_id": "testui-a07ca",
+    "storage_bucket": "testui-a07ca.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618647036667:android:e3dd36753d6c0ca08e465e",
+        "android_client_info": {
+          "package_name": "com.example.testui"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAcFxU32TXVtTJGn1vRUj9C-nRx10rs6c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
